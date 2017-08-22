@@ -1,0 +1,2 @@
+# set bottom line caption
+caption always "%{= kw}%-w%{= kY}%n %t%{-}%+w%-= [%H - %D %d/%m/%y - %c]"
